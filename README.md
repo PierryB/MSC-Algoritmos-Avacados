@@ -2,7 +2,7 @@
 
 ## Maior Subsequência Comum
 
-O problema da maior subsequência comum(LCS - Longest Common Subsequence) é sobre achar a maior subsequência em todas as sequências em um conjunto de sequências(normalmente duas).
+O problema da maior subsequência comum(LCS - Longest Common Subsequence) é sobre achar a maior subsequência de caracteres entre duas strings.
 
 ## Programação Dinâmica
 
