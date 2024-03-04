@@ -6,6 +6,6 @@ O problema da maior subsequência comum(LCS - Longest Common Subsequence) é sob
 
 ## Programação Dinâmica
 
-A programação dinâmica é um método de desenvolvimento que busca encontrar a solução de vários subproblemas para, daí então, encontrar a solução do problema geral. Encontrar o termo N da sequência de Fibonacci é um problema que pode ser resolvido com Programação Dinâmica.
+A programação dinâmica é um método de desenvolvimento que busca encontrar a solução de vários subproblemas para, daí então, encontrar a solução do problema geral.
 
 Programa realizado na linguagem C#.
